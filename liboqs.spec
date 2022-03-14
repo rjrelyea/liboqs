@@ -11,6 +11,7 @@ VCS:        {{{ git_dir_vcs }}}
 Source:     {{{ git_dir_pack }}}
 BuildRequires: ninja-build
 BuildRequires: cmake
+BuildRequires: gcc
 #BuildRequires: python-pytest
 #BuildRequires: python-pytest-xdist
 #BuildRequires: python-yaml
